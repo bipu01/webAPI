@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "pName": "Dior Full dress",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },
+    {
+        "id":2,
+        "pName": "Gucci Full dress",
+        "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },
+    {
+        "id":3,
+        "pName": "Kapas Custom ",
+        "image": "./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
+        "currentPrice": 40,
+        "originalPrice": 50,
+        "rating": 5
+    },
+    {
+        "id":4,
+        "pName": "Full dress",
+        "image": " ./images/Sandro Spring 2020 Menswear Collection.jpg",
+        "currentPrice": 240,
+        "originalPrice": 300,
+        "rating": 4
+    },
+    {
+        "id":5,
+        "pName": "Umbrella dress",
+        "image": " ./images/450-600 $.jpg",
+        "currentPrice": 880,
+        "originalPrice": 1000,
+        "rating": 4
+    },
+    {
+        "id":6,
+        "pName": "Traditional dress",
+        "image": " ./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
+        "currentPrice": 80,
+        "originalPrice": 100,
+        "rating": 4
+    },
+    {
+        "id":7,
+        "pName": "Another day",
+        "image": " ./images/Gentleman elegant and comfortable mens trousers….jpg",
+        "currentPrice": 80,
+        "originalPrice": 90,
+        "rating": 4
+    },
+    {
+        "id":8,
+        "pName": "8th dress",
+        "image": "./images/1920s Style Men's Vests, Pullover Vests, Waistcoats.jpg ",
+        "currentPrice": 800,
+        "originalPrice": 350,
+        "rating": 4
+    },
+    {
+        "id":9,
+        "pName": "9th dress",
+        "image": " ./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },
+    {
+        "id":10,
+        "pName": "10th dress",
+        "image": " ./images/High Neck Split Beaded Evening Dresses.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },
+    {
+        "id":11,
+        "pName": "11th dress",
+        "image": " ./images/27 Fantastic Black Wedding Dresses To Fall In Love With.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },
+    {
+        "id":12,
+        "pName": "12th dress",
+        "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },{
+        "id":13,
+        "pName": "12th dress",
+        "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
+        "currentPrice": 200,
+        "originalPrice": 260,
+        "rating": 5
+    },
+    {
+        "id":14,
+        "pName": "Kapas Custom ",
+        "image": "./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
+        "currentPrice": 40,
+        "originalPrice": 690,
+        "rating": 5
+    }
+
+]
