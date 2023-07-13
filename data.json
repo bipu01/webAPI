@@ -1,114 +1,185 @@
 [
     {
-        "id":1,
-        "pName": "Dior Full dress",
+        "id":71,
+        "pName": "Harriett Bryan",
         "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
         "currentPrice": 300,
         "originalPrice": 350,
         "rating": 4
     },
     {
-        "id":2,
-        "pName": "Gucci Full dress",
+        "id":44,
+        "pName": "Alma McLaughlin",
         "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },
     {
-        "id":3,
-        "pName": "Kapas Custom ",
+        "id":2,
+        "pName": "Gregory Summers",
         "image": "./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
         "currentPrice": 40,
         "originalPrice": 50,
         "rating": 5
     },
     {
-        "id":4,
-        "pName": "Full dress",
+        "id":14,
+        "pName": "Samuel Russell",
         "image": " ./images/Sandro Spring 2020 Menswear Collection.jpg",
         "currentPrice": 240,
         "originalPrice": 300,
         "rating": 4
     },
     {
-        "id":5,
-        "pName": "Umbrella dress",
+        "id":91,
+        "pName": "Matilda Salazar",
         "image": " ./images/450-600 $.jpg",
         "currentPrice": 880,
         "originalPrice": 1000,
         "rating": 4
     },
     {
-        "id":6,
-        "pName": "Traditional dress",
+        "id":37,
+        "pName": "Caleb Mason",
         "image": " ./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
         "currentPrice": 80,
         "originalPrice": 100,
         "rating": 4
     },
     {
-        "id":7,
-        "pName": "Another day",
+        "id":45,
+        "pName": "Tony Santiago",
         "image": " ./images/Gentleman elegant and comfortable mens trousers….jpg",
         "currentPrice": 80,
         "originalPrice": 90,
         "rating": 4
     },
     {
-        "id":8,
-        "pName": "8th dress",
+        "id":68,
+        "pName": "Daniel Vargas",
         "image": "./images/1920s Style Men's Vests, Pullover Vests, Waistcoats.jpg ",
         "currentPrice": 800,
         "originalPrice": 350,
         "rating": 4
     },
     {
-        "id":9,
-        "pName": "9th dress",
+        "id":30,
+        "pName": "Annie Little",
         "image": " ./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },
     {
-        "id":10,
-        "pName": "10th dress",
+        "id":87,
+        "pName": "Della Stewart",
         "image": " ./images/High Neck Split Beaded Evening Dresses.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },
     {
-        "id":11,
-        "pName": "11th dress",
+        "id":96,
+        "pName": "Julian Fletcher",
         "image": " ./images/27 Fantastic Black Wedding Dresses To Fall In Love With.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },
     {
-        "id":12,
-        "pName": "12th dress",
+        "id":85,
+        "pName": "Marie Woods",
         "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },{
-        "id":13,
-        "pName": "12th dress",
+        "id":72,
+        "pName": "Isaac Reese",
         "image": " ./images/Off-The-Shoulder Satin High Split Twist Front Train Dresses For Wedding.jpg",
         "currentPrice": 200,
         "originalPrice": 260,
         "rating": 5
     },
     {
-        "id":14,
-        "pName": "Kapas Custom ",
+        "id":96,
+        "pName": "Richard Sims",
         "image": "./images/Men's Black Pant Outfits Ideas With Shirts Combination.jpg",
         "currentPrice": 40,
         "originalPrice": 690,
         "rating": 5
+    },
+    {
+        "id":98,
+        "pName": "Owen Waters",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":59,
+        "pName": "Andre Gonzalez",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":10,
+        "pName": "Angel Cole",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":59,
+        "pName": "Tommy Copeland",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":40,
+        "pName": "Bernard Estrada",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":85,
+        "pName": "Wesley Anderson",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":38,
+        "pName": "Noah Cruz",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":35,
+        "pName": "Troy McKenzie",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":1,
+        "pName": "Lena Green",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
+    },{
+        "id":5,
+        "pName": "Callie Pratt",
+        "image": "./images/A-Line Wedding Dresses That Will Melt Your Heart.jpg ",
+        "currentPrice": 300,
+        "originalPrice": 350,
+        "rating": 4
     }
 
 ]
